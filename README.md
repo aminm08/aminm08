@@ -19,7 +19,5 @@
 <h3 aligh="left"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-linux-48.png"> Linux | 20%</h3><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/bar.png?raw=true" height="16px" width="100px">
 
 <h2 align="right">🌞 الان مشغول این کارهام:</h2>
-<h4 align="right">⭐️ تولید محتوا تلگرام / اینستاگرام</h4>
-<h4 align="right">⭐️ تدریس پایتون</h4>
-<h4 align="right">⭐️ تولید محتوا تلگرام / اینستاگرام</h4>
-<h4 align="right">⭐️ تولید محتوا تلگرام / اینستاگرام</h4>
+<h4 align="right">⭐️ بالا بردن مهارت حل سوال و طراحی الگوریتم</h4>
+
