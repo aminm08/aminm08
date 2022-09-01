@@ -11,7 +11,7 @@
 
 <h2 align="right">تماس با من ☎️:</h2>
 
-<a href="https://www.instagram.com/Muhammadaminforouzany"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-instagram-48.png"></a> <a href=""><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-telegram-app-48.png"></a>
+<a href="https://www.instagram.com/Muhammadaminforouzany" align="right"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-instagram-48.png"></a> <a href="" align="right"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-telegram-app-48.png"></a>
 
 <h2 align="right">🌱 در حال حاضر دارم اینا رو یاد میگیرم:</h2>
 <h3 aligh="left">🔮 Django | 30%</h3><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/bar.png?raw=true" height="16px" width="150px">
