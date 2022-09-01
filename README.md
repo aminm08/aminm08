@@ -14,9 +14,9 @@
 <a href="https://www.instagram.com/Muhammadaminforouzany" align="right"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-instagram-48.png"></a> <a href="" align="right"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-telegram-app-48.png"></a>
 
 <h2 align="right">🌱 در حال حاضر دارم اینا رو یاد میگیرم:</h2>
-<h3 aligh="left"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-django-48.png"> Django | 30%</h3><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/bar.png?raw=true" height="16px" width="150px">
-<h3 aligh="left"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-python-48.png"> Django | 30%</h3><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/bar.png?raw=true" height="16px" width="150px">
-<h3 aligh="left"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-linux-48.png"> Django | 30%</h3><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/bar.png?raw=true" height="16px" width="150px">
+<h3 aligh="left"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-django-48.png"> Django | 60%</h3><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/bar.png?raw=true" height="16px" width="300px">
+<h3 aligh="left"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-python-48.png"> Python | 50%</h3><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/bar.png?raw=true" height="16px" width="250px">
+<h3 aligh="left"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-linux-48.png"> Linux | 20%</h3><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/bar.png?raw=true" height="16px" width="100px">
 
 <h2 align="right">🌞 الان مشغول این کارهام:</h2>
 <h4 align="right">⭐️ تولید محتوا تلگرام / اینستاگرام</h4>
