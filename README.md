@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/112483091/187425702-72de783a-c79b-4c42-949b-46f78778d95a.svg" alt="Just for Fun :D">
 
 <h2 align="center">سلام 👋 من محمد امینم 🤖</h2>
-<p align="center">برنامه‌نویس پایتونم 🐍 و عاشق دنیای کامپیوترها ☺️❤️</p>
+<p align="center">🐍 برنامه‌نویس پایتون</p>
 
 <h2 align="right">🎓 مهارت‌ها و ابزارهایی که استفاده میکنم:</h2>
 
@@ -18,6 +18,6 @@
 <h3 aligh="left"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-python-48.png"> Python | 50%</h3><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/bar.png?raw=true" height="16px" width="250px">
 <h3 aligh="left"><img src="https://github.com/aminm08/aminm08/blob/main/image/icons8-linux-48.png"> Linux | 20%</h3><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/bar.png?raw=true" height="16px" width="100px">
 
-<h2 align="right">🌞 الان مشغول این کارهام:</h2>
-<h4 align="right">⭐️ بالا بردن مهارت حل سوال و طراحی الگوریتم</h4>
+<!-- <h2 align="right">🌞 الان مشغول این کارهام:</h2> 
+<h4 align="right">⭐️ بالا بردن مهارت حل سوال و طراحی الگوریتم</h4> -->
 
