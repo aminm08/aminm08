@@ -1,5 +1,4 @@
+<h1> hi 👋 im M.amin Forouzan</h1>
+<p> <img  align="top" src="https://github-readme-stats.vercel.app/api?username=aminm08&show_icons=true" /> &nbsp; &nbsp; &nbsp; &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminm08" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminm08&show_icons=true&theme=transparent)
 
