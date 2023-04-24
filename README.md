@@ -2,7 +2,7 @@
 
  <div align="center"> 
      <a href="">
-      <img align="center" src=
+      <img align="left" src=
 "https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aminm08&show_icons=true&theme=dark&locale=en&layout=compact"  />
     </a>
     <a href="">
