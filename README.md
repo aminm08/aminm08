@@ -1,6 +1,6 @@
 <h1 align="center"> hi 👋 im M.amin Forouzan</h1>
 
-<div align="center">
+<div align="left">
 <a href="#">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aminm08&show_icons=true&theme=dark&locale=en&layout=compact" />
 </a>
